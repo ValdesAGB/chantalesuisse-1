@@ -1,0 +1,26 @@
+[{
+  "name": "Aavegotchi",
+  "symbol": "GHST",
+  "price": 0.977387,
+  "market_cap": 38385759,
+  "fully_diluted_valuation": 40407819,
+  "capDivByDiluted_max": 96,
+  "cgUrl": "https://www.coingecko.com/fr/pièces/aavegotchi",
+  "cmcUrl": "https://coinmarketcap.com/fr/currencies/aavegotchi/",
+  "twitterUrl": "https://twitter.com/aavegotchi",
+  "twitterImgUrl": "https://www.dropbox.com/s/9kygzagnez0m5so/TwitterHeader-aavegotchi.jpg?dl=0",
+  "priceUrl": "https://www.coingecko.com/fr/pièces/aavegotchi",
+  "priceImgUrl": "https://www.dropbox.com/s/bodkmwzzldt8qkh/PrixCoingecko-aavegotchi.png?dl=0",
+  "scoring": {
+    "capDivByDiluted": 
+      {
+        "score": 8,
+        "color": "#00b154"
+      },
+    "volumePer24h": 
+    {
+      "score": 5,
+      "color": "#c7dfb4"
+    }
+  }
+  }]

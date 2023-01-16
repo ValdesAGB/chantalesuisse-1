@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/chantalesuisse-1/static/js/main.965b2b1e.js",
+    "static/media/TwitterHeader-aavegotchi.jpg": "/chantalesuisse-1/static/media/TwitterHeader-aavegotchi.d7b872fe03256dbedb87.jpg",
+    "static/media/PrixCoingecko-aavegotchi.png": "/chantalesuisse-1/static/media/PrixCoingecko-aavegotchi.5804be7fe31fa2684b67.png",
+    "index.html": "/chantalesuisse-1/index.html",
+    "main.965b2b1e.js.map": "/chantalesuisse-1/static/js/main.965b2b1e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.965b2b1e.js"
+  ]
+}
