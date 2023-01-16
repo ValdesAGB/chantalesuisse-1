@@ -1,0 +1,24 @@
+Image du rendu : 
+https://www.dropbox.com/s/vxccc510b2ehpqe/Haut-de-page-pdf-pour-maquette-hyper-basique.jpg?dl=0
+Cette image a l'air horizontale mais en fait c'est parce qu'elle montre seulement le haut de la page A4 verticale. Le reste de la page A4 verticale doit rester blanc pour le moment. 
+
+Police de caractères : Calibri
+
+Couleurs :
+Pour les couleurs darkgreen et lightgreen, choisissez du vert clair et du vert foncé à votre convenance, je n'ai pas besoin d'être précise pour le moment.
+
+1) Le mot Coingecko est cliquable dans le pdf et mène sur
+https://www.coingecko.com/fr/pièces/aavegotchi
+
+2) Le mot Coinmarketcap est cliquable dans le pdf et mène sur
+https://coinmarketcap.com/fr/currencies/aavegotchi/
+
+3) L'image du prix US$ (image du milieu) provient de
+https://www.dropbox.com/s/bodkmwzzldt8qkh/PrixCoingecko-aavegotchi.png?dl=0 
+elle est cliquable et mène sur
+https://www.coingecko.com/fr/pièces/aavegotchi
+
+4) L'image de l'en-tête Twitter (image de droite) provient de
+https://www.dropbox.com/s/9kygzagnez0m5so/TwitterHeader-aavegotchi.jpg?dl=0
+elle est cliquable et mène sur
+https://twitter.com/aavegotchi
